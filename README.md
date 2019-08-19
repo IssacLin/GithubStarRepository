@@ -71,6 +71,55 @@ Github上的star没有分类，为了自己查阅方便，自己建一个仓库�
 **[intro]**  收集整理中山大学期末考试卷子、资料
 
 
+## 机器学习相关视频
+
+
+### [斯坦福公开课程：概率和统计《Probability and Statistics》](https://online.stanford.edu/courses/gse-yprobstat-probability-and-statistics)
+
+### [MIT 公开课线性代数《Linear Algebra》](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+**[note]**   讲师：Gilbert Strang
+
+### [斯坦福 2017 季 CS231n 深度视觉识别课程视频](https://www.bilibili.com/video/av13260183/)
+
+**[note]**  讲师：Fei-Fei Li、Justin Johnson、Serena Yeung
+
+### [2019 斯坦福CS224n深度学习自然语言处理课程](https://www.bilibili.com/video/av46216519/)
+ 
+**[note]**  讲师：Chris Manning 
+
+### [斯坦福机器学习课程](https://www.coursera.org/learn/machine-learning)
+
+**[note]** 讲师：Andrew Ng
+
+### [CS230 斯坦福深度学习课程（2018 年秋）](https://www.bilibili.com/video/av47055599/)
+
+**[note]** 讲师：Andrew Ng、Kian Katanforoosh
+
+### [DeepMind 强化学习导论课程](https://www.bilibili.com/video/av24060851/)
+
+**[note]** 讲师：David Silver
+
+### [跟顶级Kagglers学习如何赢取数据科学竞赛](https://www.coursera.org/learn/competitive-data-science)
+
+**[note]** 讲师：Dmitry Ulyanov、Alexander Guschin、Mikhail Trofimov、Dmitry Altukhov、Marios Michailidis
+
+### [台大林轩田老师《机器学习基石》课程](https://www.bilibili.com/video/av12463015/)
+
+**[note]** 讲师：林轩田
+
+### [台大林轩田老师《机器学习技法》课程](https://www.bilibili.com/video/av12469267/)
+
+**[note]** 讲师：林轩田
+
+### [NTU 大学，李宏毅最新机器学习课程（2019）] (http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+
+**[note]** 讲师：李宏毅 
+
+### [陈蕴侬应用深度学习 ](https://www.csie.ntu.edu.tw/~miulab/s107-adl/)
+
+**[note]** 讲师：Yun-Nung (Vivian) Chen
+
 
 
 
