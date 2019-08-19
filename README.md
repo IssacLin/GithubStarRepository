@@ -24,11 +24,11 @@ Github上的star没有分类，为了自己查阅方便，自己建一个仓库�
 
 **[note]** 用**Latex**画神经网络图，颜值奇高，**用代码实现画图，因此可拓展性比较强**。
 
-- [gwding / draw_convnet](https://github.com/gwding/draw_convnet)**★Star 1458** until 2019/8/19
+- [gwding / draw_convnet](https://github.com/gwding/draw_convnet) **★Star 1458** until 2019/8/19
 
 **[note]** 简单直接，是纯用python代码画图的，核心工具是matplotlib，图不酷炫，但是好在**规规矩矩**，可以严格控制，论文用挺合适的。
 
-- [ethereon / netscope](https://github.com/ethereon/netscope)**★Star 725** until 2019/8/19
+- [ethereon / netscope](https://github.com/ethereon/netscope) **★Star 725** until 2019/8/19
 
 **[intro]** Neural network visualizer http://ethereon.github.io/netscope
 
