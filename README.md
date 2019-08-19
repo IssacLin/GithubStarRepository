@@ -40,28 +40,35 @@ Github上的star没有分类，为了自己查阅方便，自己建一个仓库�
 
 **[intro]**  浙江大学课程攻略共享计划 https://qsctech.github.io/zju-icicles/
 
-###  [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)  **★Star 7475** until 2019/8/19
-
-**[intro]** 中国科学技术大学课程资源 https://ustc-resource.github.io/USTC-Course/
-
-### [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) **★Star 9993** until 2019/8/19
-
-**[intro]** 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 
 ### [lib-pku/libpku](https://github.com/lib-pku/libpku)  **★Star 20054** until 2019/8/19
 
 **[intro]** 北大课程资料民间整理 https://lib-pku.github.io/
 
+
+### [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) **★Star 9993** until 2019/8/19
+
+**[intro]** 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+
+
+###  [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)  **★Star 7475** until 2019/8/19
+
+**[intro]** 中国科学技术大学课程资源 https://ustc-resource.github.io/USTC-Course/
+
+
 ###  [CoolPhilChen/SJTU-Courses](https://github.com/CoolPhilChen/SJTU-Courses/)  **★Star 5101** until 2019/8/19
 
 **[intro]** 上海交通大学课程资料分享
 
+
 ###  [zjdx1998/seucourseshare](https://github.com/zjdx1998/seucourseshare) **★Star 561** until 2019/8/19
+
 **[intro]** 东南大学课程共享计划
+
 
 ###  [sysuexam/SYSU-Exam](https://github.com/sysuexam/SYSU-Exam) **★Star 459** until 2019/8/19
 
-**[intro]**  收集整理SYSU期末考试卷子、资料
+**[intro]**  收集整理中山大学期末考试卷子、资料
 
 
 
