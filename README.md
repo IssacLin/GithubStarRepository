@@ -137,6 +137,28 @@ Github上的star没有分类，为了自己查阅方便，自己建一个仓库�
 
 
 
+## pytorch相关
+
+- ### [jcjohnson/**pytorch-examples**](https://github.com/jcjohnson/pytorch-examples)
+
+**[intro]** Simple examples to introduce PyTorch.
+
+**[note]** 从numpy介绍到了tensor，然后从手动实现反向传播介绍到了如何利用Pytorch提供的自动微分来进行反向传播，从自己动手实现模型，损失函数，权重更新到如何利用已有的包自定义模型，调用损失函数和优化器。整个仓库看完应该对pytorch的原理掌握的比较透彻了。
+
+
+
+## 工具相关
+
+- ### [CopyTranslator/**CopyTranslator **](https://copytranslator.github.io/)★Star 4.9k until 2019/9/26
+
+**[intro]** Foreign language reading and translation assistant based on copy and translate.
+
+**[note]** 特别适合**英文文献的翻译**，当我们**复制PDF内容**并将其粘贴到网页翻译中时，可能会有额外的**换行符导致**翻译混乱。翻译结果非常差，您需要**手动删除换行符**，CopyTranslator可以自动修正换行，帮助我们快速**完美地解决此问题**。CopyTranslator支持多种常见的翻译，比如Google翻译，有道翻译，百度翻译等。
+
+
+
+
+
 
 
 
